@@ -3,7 +3,6 @@
 Pamidoro es una SPA *Single Page Application*, de gestión de tareas 
 
 ## Ultimas novedades v0.0.0.2
-
 * Esta version permite el registro de usuarios "de momento no guarda la información"
 * Se hacen pruebas con GitHub Actions
 * Se registra el proyecto y se integra con Google Firebase
